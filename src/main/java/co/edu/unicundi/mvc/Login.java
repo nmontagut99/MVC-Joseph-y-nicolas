@@ -122,7 +122,7 @@ public class Login extends javax.swing.JFrame {
         if (existe==true) {
             JOptionPane.showMessageDialog(this, "Acceso concedido");
         }else {
-            JOptionPane.showMessageDialog(this, "Acceso denegado");
+            JOptionPane.showMessageDialog(this, "Usuario o contraseña Incorrectos");
         }
         
     }//GEN-LAST:event_enviar1ActionPerformed
