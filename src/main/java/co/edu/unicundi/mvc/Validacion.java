@@ -17,7 +17,7 @@ public class Validacion {
 
     //Datos para reemplazar la base de datos del modelo
     String nombre1 = "nicolas";
-    String contraseña1 = "joseph";
+    String contraseña1 = "leandro";
 
     /**
      * Constructor que recibe un usuario y contraseña para validar existencia
